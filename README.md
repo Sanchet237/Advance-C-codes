@@ -1,4 +1,4 @@
-# C-FY-Assignments
+# FY-Assignments
 First year Advance C Practical Codes SEMESTER 2
 
 
